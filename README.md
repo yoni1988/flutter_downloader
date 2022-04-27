@@ -1,0 +1,2 @@
+# flutter_downloader
+修改官方的flutter_downloader的open功能，加入open时制定type类型
